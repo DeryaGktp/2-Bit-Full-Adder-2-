@@ -13,6 +13,7 @@ The project takes in three one-bit wide vectors and add them together.
 ## How to test
 
 cycle all the input bits and verify that it adds.
+
 ## External hardware
 
 None
